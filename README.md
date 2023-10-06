@@ -7,6 +7,8 @@ The objective of this project is to improve upon Never Give Up, a fairly recent 
 
 The code for never give up that was used as a starting point for this project is available at https://github.com/Coac/never-give-up. Differences from this repo are marked in code with comments reading `New for AERL`. 
 
+
+# References
 Badia, A. P., Sprechmann, P., Vitvitskyi, A., Guo, D., Piot, B., Kapturowski, S., Olivier, L., Arjovsky, M. & Blundell, C. (2020). Never give up: Learning directed exploration strategies. arXiv preprint arXiv:2002.06038.
 
 Le, V. (2021). PyTorch implementation of Never Give Up: Learning Directed Exploration Strategies.

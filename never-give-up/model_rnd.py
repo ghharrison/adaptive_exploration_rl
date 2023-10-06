@@ -4,6 +4,7 @@ import torch.nn.functional as F
 from torch.nn import init
 
 from config import config
+################# New for AERL ####################
 
 ######################################
 # add lifelong curiosity (RND) to model.py from NGU.
@@ -186,3 +187,4 @@ class RNDModel(nn.Module):
         predict_feature = self.predictor(next_obs)
 
         return predict_feature, target_feature
+###################################################
